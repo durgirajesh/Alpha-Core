@@ -1,4 +1,4 @@
-# Financepeer
+# Project
 
 Steps to make this project work locally =>
 
