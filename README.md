@@ -1,4 +1,10 @@
-# Project
+# Alpha-Core
+Alpha Core is a website designed and written usingHTML, Bootstrap CSS framework for front-end that provides responsive 
+web pages and JavaScript, PHP, and MySQL for the Back End. It is an end-to-end site that has user authentication and file 
+management. The user is allowed to create an account, login, read, write, access and store files. Developed specifically 
+for JSON file extension. Xampp Apache Server tool is used to host the Alpha Core site locally by following the guidelines 
+that are documented in Git commit. 
+
 
 Steps to make this project work locally =>
 
